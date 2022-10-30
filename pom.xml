@@ -208,9 +208,9 @@
     </build>
   <repositories>
       <repository>
-        <id>codeartifact</id>
-        <name>codeartifact</name>
-    <url>https://visualpath-921877814580.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+        <id>visualpath-vprofile-repo</id>
+        <name>visualpath-vprofile-repo</name>
+    <url>https://visualpath-921877814580.d.codeartifact.us-east-1.amazonaws.com/maven/vprofile-repo/</url>
       </repository>
     </repositories>
 </project>
